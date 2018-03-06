@@ -1,0 +1,8 @@
+C:\Users\sekib\Documents\UnderCreation\Dentaku\DentakuApp1\DentakuApp1\bin\Release\DentakuApp1.exe
+C:\Users\sekib\Documents\UnderCreation\Dentaku\DentakuApp1\DentakuApp1\bin\Release\DentakuApp1.pdb
+C:\Users\sekib\Documents\UnderCreation\Dentaku\DentakuApp1\DentakuApp1\obj\Release\DentakuApp1.Form1.resources
+C:\Users\sekib\Documents\UnderCreation\Dentaku\DentakuApp1\DentakuApp1\obj\Release\DentakuApp1.Properties.Resources.resources
+C:\Users\sekib\Documents\UnderCreation\Dentaku\DentakuApp1\DentakuApp1\obj\Release\DentakuApp1.csproj.GenerateResource.Cache
+C:\Users\sekib\Documents\UnderCreation\Dentaku\DentakuApp1\DentakuApp1\obj\Release\DentakuApp1.csproj.CoreCompileInputs.cache
+C:\Users\sekib\Documents\UnderCreation\Dentaku\DentakuApp1\DentakuApp1\obj\Release\DentakuApp1.exe
+C:\Users\sekib\Documents\UnderCreation\Dentaku\DentakuApp1\DentakuApp1\obj\Release\DentakuApp1.pdb
