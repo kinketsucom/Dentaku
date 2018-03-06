@@ -1,16 +1,14 @@
-Name
+# Name
 4ボタン電卓
 
-Overview
+# Overview
 
 ## Description
 
 
 ## Demo
+![実行画面](https://github.com/kinketsucom/Dentaku/blob/master/Img/1.jpg)
 
-
-## Requirement
-なし
 
 ## Usage
 ボタンをたたいてください
