@@ -1,5 +1,5 @@
 # Name
-4ボタン電卓
+5ボタン電卓
 
 # Overview
 <a href="https://github.com/kinketsucom/Dentaku/blob/master/DentakuApp1/DentakuApp1/bin/Release/DentakuApp1.exe">4ボタン電卓</a>  
