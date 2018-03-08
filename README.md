@@ -2,7 +2,8 @@
 5ボタン電卓
 
 # Overview
-<a href="https://github.com/kinketsucom/Dentaku/blob/master/DentakuApp1/DentakuApp1/bin/Release/DentakuApp1.exe">4ボタン電卓</a>  
+<a href="https://github.com/kinketsucom/Dentaku/blob/master/DentakuApp1/DentakuApp1/bin/Release/DentakuApp1.exe">
+5ボタン電卓</a>  
 リンク先のView Rawリンクを押してファイルを保存->実行
 してください。電卓が起動します。
 
